@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Calculator</title>
+    <link rel="stylesheet" href="../Task01-Calculator/index.css">
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" 
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+
+    <div class="calculator-container">
+
+        <!-- Display Screen -->
+        <div class="display">
+            <div class="calculation" id="calculation"></div>
+            <div class="result" id="result">0</div>
+        </div>
+
+        <!-- Buttons -->
+        <div class="buttons">
+            <button class="btn clear" data-action="clear">C</button>
+            <button class="btn delete" data-action="delete">⌫</button>
+            <button class="btn operation" data-operation="÷">÷</button>
+            <button class="btn operation" data-operation="×">×</button>
+
+            <button class="btn number" data-number="7">7</button>
+            <button class="btn number" data-number="8">8</button>
+            <button class="btn number" data-number="9">9</button>
+            <button class="btn operation" data-operation="-">-</button>
+
+            <button class="btn number" data-number="4">4</button>
+            <button class="btn number" data-number="5">5</button>
+            <button class="btn number" data-number="6">6</button>
+            <button class="btn operation" data-operation="+">+</button>
+
+            <button class="btn number" data-number="1">1</button>
+            <button class="btn number" data-number="2">2</button>
+            <button class="btn number" data-number="3">3</button>
+            <button class="btn equals" data-action="calculate">=</button>
+
+            <button class="btn number zero" data-number="0">0</button>
+            <button class="btn decimal" data-decimal=".">.</button>
+            <button class="btn percentage" data-action="percentage">%</button>
+        </div>
+
+        <!-- Footer Section -->
+        <footer class="footer">
+            <div class="footer-left">
+                <span class="copyright">
+                    © 2025 Muhammad Yasir
+                </span>
+            </div>
+
+            <div class="footer-right">
+
+                <!-- Facebook -->
+                <a href="https://facebook.com" target="_blank" class="social-link">
+                    <i class="fab fa-facebook"></i>
+                </a>
+
+                <!-- LinkedIn (Twitter replaced) -->
+                <a href="https://linkedin.com" target="_blank" class="social-link linkedin">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+
+                <!-- Instagram -->
+                <a href="https://instagram.com" target="_blank" class="social-link">
+                    <i class="fab fa-instagram"></i>
+                </a>
+
+                <!-- GitHub -->
+                <a href="https://github.com" target="_blank" class="social-link">
+                    <i class="fab fa-github"></i>
+                </a>
+            </div>
+        </footer>
+
+    </div>
+
+    <script src="../Task01-Calculator/index.js"></script>
+</body>
+</html>
