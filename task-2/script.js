@@ -197,7 +197,7 @@ function initAboutSection() {
     }
 }
 
-// ==================== PROJECTS SECTION ====================
+//  PROJECTS SECTION 
 function initProjectsSection() {
     const projectsSection = document.getElementById('projects');
     const projectCards = document.querySelectorAll('.project-card');
@@ -213,7 +213,7 @@ function initProjectsSection() {
             tools: ['HTML', 'CSS', 'JavaScript', 'Local Storage', 'Responsive Design'],
             liveLink: 'https://github.com/YasirAwan4831/todo-list-js-app',
             githubLink: 'https://github.com/YasirAwan4831/todo-list-js-app',
-            image: 'https://private-user-images.githubusercontent.com/223332147/487962880-86ffc0d2-ae8c-40d8-8243-dd31b249f1bc.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU0ODU5ODksIm5iZiI6MTc2NTQ4NTY4OSwicGF0aCI6Ii8yMjMzMzIxNDcvNDg3OTYyODgwLTg2ZmZjMGQyLWFlOGMtNDBkOC04MjQzLWRkMzFiMjQ5ZjFiYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxMVQyMDQxMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNTk2NTEzZGYwMjJmOTZkOWQwZmJhOTIyOWMxZTFiMDBjNzA4ZThmMWFhYTQ2YTJiZGE3ZGExYzdhOGJhYzBhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UfTSdWCHjcUSfHxUNmVasHJjtKShco03tUEKvNp-f60'
+            image: 'https://media.licdn.com/dms/image/v2/D4D2DAQFSBUwsvETu9g/profile-treasury-image-shrink_800_800/B4DZk8lRNaHYAY-/0/1757658027582?e=1766178000&v=beta&t=UT3KUffHwcCPBm-fa4huQXpIzZxGKv12XjIxe_dwdek'
         },
         {
             title: 'YARIS AI Smart Chat Bot',
@@ -229,7 +229,7 @@ function initProjectsSection() {
             tools: ['HTML', 'CSS', 'JavaScript', 'UX/UI', 'Responsive Design', 'Local Storage'],
             liveLink: 'https://yasirawan4831.github.io/webdev-quiz-app/',
             githubLink: 'https://github.com/YasirAwan4831/webdev-quiz-app',
-            image: 'https://private-user-images.githubusercontent.com/223332147/494709609-03a8fa23-3e8b-447c-aa18-9938d42caa4f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU0ODc2MzYsIm5iZiI6MTc2NTQ4NzMzNiwicGF0aCI6Ii8yMjMzMzIxNDcvNDk0NzA5NjA5LTAzYThmYTIzLTNlOGItNDQ3Yy1hYTE4LTk5MzhkNDJjYWE0Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxMVQyMTA4NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMjM4Y2FmZGU0ZDBjZDYxMGZiODYwMTUxZWMwNzkxNWRkNDFkN2RjNzUxZjlhOTI2NjlkMWM3MWEwZjdhMTA4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MEx-nQnlHKRp9ElR-4ke4g1ilwjOVTpEaIW6YVLJlq8'
+            image: 'https://github.com/YasirAwan4831/webdev-quiz-app/blob/main/docu/images/login_flow.jpg?raw=true'
         },
         {
             title: 'Modern Login & Signup System',
@@ -237,7 +237,7 @@ function initProjectsSection() {
             tools: ['HTML', 'CSS', 'JavaScript', 'UX/UI', 'Responsive Design', 'Form Validation'],
             liveLink: 'https://github.com/YasirAwan4831/modern-login-singup-page/blob/main/README.md',
             githubLink: 'https://github.com/YasirAwan4831/modern-login-singup-page',
-            image: 'https://private-user-images.githubusercontent.com/223332147/489244086-5fee828b-90fe-45b2-a302-6462e9771814.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1MDkyNTIsIm5iZiI6MTc2NTUwODk1MiwicGF0aCI6Ii8yMjMzMzIxNDcvNDg5MjQ0MDg2LTVmZWU4MjhiLTkwZmUtNDViMi1hMzAyLTY0NjJlOTc3MTgxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxMlQwMzA5MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYWFiMjg5NDViN2YzMWY1ODdlNjBiZDA4ZGYxMzFkMDZjM2IzMmVjNTA5ZDQ3Y2ViOWRmM2ZiOWFiY2I5NjEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kvd1hbQvuciE-KhATxUgC0niogkvsq77mTLr0m1F0kQ'
+            image: 'https://media.licdn.com/dms/image/v2/D4D2DAQEt_iGVrVjbeg/profile-treasury-image-shrink_800_800/B4DZlRJ4IOG8AY-/0/1758003168448?e=1766178000&v=beta&t=Euu1jtW5zq37JYqsmBXL-KJA4FUhEYvu7cjFdWFSl7w'
         },
         {
             title: 'Final Year Diploma Web Project',
@@ -274,8 +274,8 @@ function initProjectsSection() {
     
     // Load more projects functionality - FIXED VERSION
     if (loadMoreBtn) {
-        let projectsLoaded = 3; // پہلے سے 3 پروجیکٹ دکھ رہے ہیں
-        let currentIndex = 0; // کونسے پروجیکٹ لوڈ ہو چکے ہیں
+        let projectsLoaded = 3; 
+        let currentIndex = 0;
         
         loadMoreBtn.addEventListener('click', function() {
             const projectsGrid = document.querySelector('.projects-grid');
@@ -287,10 +287,10 @@ function initProjectsSection() {
             
             // Simulate loading delay
             setTimeout(() => {
-                // صرف 3 نئے پروجیکٹ شامل کریں
+    
                 for (let i = 0; i < 3; i++) {
                     if (currentIndex >= additionalProjects.length) {
-                        break; // اگر مزید پروجیکٹ نہیں ہیں تو رک جائیں
+                        break;
                     }
                     
                     const project = additionalProjects[currentIndex];
@@ -327,7 +327,7 @@ function initProjectsSection() {
                     setTimeout(() => {
                         projectCard.style.opacity = '1';
                         projectCard.style.transform = 'translateY(0)';
-                        observer.observe(projectCard); // نئے کارڈ کو بھی observe کریں
+                        observer.observe(projectCard);
                     }, i * 200);
                     
                     currentIndex++;
@@ -337,7 +337,7 @@ function initProjectsSection() {
                 // Update button state
                 this.disabled = false;
                 
-                // اگر مزید پروجیکٹ نہیں ہیں تو بٹن ہائیڈ کر دیں
+               
                 if (currentIndex >= additionalProjects.length) {
                     this.innerHTML = 'No More Projects';
                     this.style.background = 'linear-gradient(135deg, #666, #555)';
