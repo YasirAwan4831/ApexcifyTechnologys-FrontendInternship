@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechShop - Product Listing</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="assets/icons/favicon.ico">
+</head>
+<body>
+    <!-- Navigation Header -->
+    <header class="main-header">
+        <nav class="navbar">
+            <div class="logo">
+                <h1><i class="fas fa-mobile-alt"></i> TechShop</h1>
+            </div>
+            
+            <ul class="nav-links">
+                <li><a href="#home" class="active">Home</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="./minipages/about.html">About</a></li>
+                <li><a href="./minipages/contact.html">Contact</a></li>
+                <li><a href="./minipages/mycart.html"><i class="fas fa-shopping-cart"></i> Cart <span id="cart-count">0</span></a></li>
+                <li><a href="./minipages/login.html" class="login-btn">Login</a></li>
+            </ul>
+            
+            <div class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content Area -->
+    <main>
+        <!-- Hero Section -->
+        <section id="home" class="hero-section">
+            <div class="hero-content">
+                <h2>Latest Tech Products</h2>
+                <p>Discover amazing gadgets at best prices</p>
+                <a href="#products" class="cta-button">Shop Now</a>
+            </div>
+        </section>
+
+        <!-- Category Filter Section -->
+        <section class="category-filter">
+            <h3>Filter by Category</h3>
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-category="all">All Products</button>
+                <button class="filter-btn" data-category="mobile">Mobile Phones</button>
+                <button class="filter-btn" data-category="laptop">Laptops</button>
+                <button class="filter-btn" data-category="watch">Smart Watches</button>
+                <button class="filter-btn" data-category="headphones">Headphones</button>
+            </div>
+            
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search products...">
+                <button id="search-btn"><i class="fas fa-search"></i></button>
+            </div>
+        </section>
+
+        <!-- Product Listing Section -->
+        <section id="products" class="products-section">
+            <h2 class="section-title">Our Products</h2>
+            <p class="section-subtitle">Browse our latest collection</p>
+            
+            <div class="products-container" id="products-container">
+                <!-- Products will be loaded dynamically with JavaScript -->
+            </div>
+            
+            <!-- Product Navigation Controls -->
+            <div class="product-navigation">
+                <button id="prev-product-btn" class="nav-btn">
+                    <i class="fas fa-chevron-left"></i> Previous
+                </button>
+                
+                <div class="page-indicator">
+                    <span id="current-product">1</span> of <span id="total-products">12</span>
+                </div>
+                
+                <button id="next-product-btn" class="nav-btn">
+                    Next <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+        </section>
+
+        <!-- Featured Product Display -->
+        <section class="featured-product">
+            <h2 class="section-title">Featured Product</h2>
+            
+            <div class="featured-container">
+                <div class="featured-image">
+                    <img id="featured-img" src="assets/images/mobile.jpg" alt="Featured Product">
+                </div>
+                
+                <div class="featured-details">
+                    <h3 id="featured-title">Premium Smartphone</h3>
+                    <p id="featured-owner" class="product-owner">By TechBrand</p>
+                    <p id="featured-description" class="product-description">
+                        Latest model with advanced features, high-resolution camera, and long battery life.
+                    </p>
+                    <div class="product-price">
+                        <span id="featured-price" class="current-price">$499.99</span>
+                        <span class="original-price">$599.99</span>
+                    </div>
+                    <div class="product-actions">
+                        <button class="buy-now-btn">Buy Now</button>
+                        <button class="add-to-cart-btn">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Newsletter Section -->
+        <section class="newsletter-section">
+            <h3>Subscribe to Our Newsletter</h3>
+            <p>Get updates on new products and special offers</p>
+            <form id="newsletter-form">
+                <input type="email" placeholder="Enter your email" required>
+                <button type="submit">Subscribe</button>
+            </form>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>TechShop</h4>
+                <p>Your one-stop shop for all tech gadgets and accessories.</p>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#products">Products</a></li>
+                    <li><a href="minipages/about.html">About Us</a></li>
+                    <li><a href="minipages/contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Connect With Us</h4>
+                <div class="social-icons">
+                    <a href="https://github.com/YasirAwan4831"><i class="fab fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/yasirawan4831/"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://x.com/YasirAwan4831"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.youtube.com/@YasirTech-t1d"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; 2023 Muhammad Yasir. All rights reserved. | 
+                <a href="minipages/login.html">Login</a> | 
+                <a href="minipages/signup.html">Sign Up</a>
+            </p>
+        </div>
+    </footer>
+
+    <!-- JavaScript Files -->
+    <script src="script.js"></script>
+</body>
+</html>
