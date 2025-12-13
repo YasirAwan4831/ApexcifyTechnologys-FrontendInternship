@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - TechShop</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; }
+        body { 
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            min-height: 100vh; 
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            padding: 20px;
+            animation: fadeIn 0.8s;
+        }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        
+        .signup-container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 450px;
+            padding: 30px;
+            animation: slideUp 0.5s;
+        }
+        @keyframes slideUp { from { transform: translateY(30px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+        
+        .logo {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        .logo h1 {
+            color: #4facfe;
+            font-size: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        
+        .name-group {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .name-group > div {
+            flex: 1;
+        }
+        
+        .form-group {
+            margin-bottom: 18px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 6px;
+            color: #333;
+            font-weight: 500;
+            font-size: 14px;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e1e1e1;
+            border-radius: 8px;
+            font-size: 15px;
+            transition: 0.3s;
+        }
+        .form-group input:focus {
+            outline: none;
+            border-color: #4facfe;
+            box-shadow: 0 0 0 3px rgba(79, 172, 254, 0.1);
+        }
+        
+        .show-password {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 5px;
+            font-size: 13px;
+            color: #666;
+        }
+        .show-password input { width: auto; }
+        
+        .terms {
+            font-size: 13px;
+            color: #666;
+            margin: 20px 0;
+            line-height: 1.5;
+        }
+        .terms a { color: #4facfe; text-decoration: none; }
+        .terms a:hover { text-decoration: underline; }
+        
+        .signup-btn {
+            width: 100%;
+            padding: 14px;
+            background: linear-gradient(to right, #4facfe, #00f2fe);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .signup-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 7px 15px rgba(79, 172, 254, 0.3);
+        }
+        
+        .login-link {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+        .login-link a {
+            color: #4facfe;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .login-link a:hover {
+            text-decoration: underline;
+        }
+        
+        .message {
+            padding: 10px;
+            border-radius: 6px;
+            margin-bottom: 15px;
+            text-align: center;
+            font-size: 13px;
+            display: none;
+            animation: fadeIn 0.3s;
+        }
+        .success { background: #e7f7ef; color: #0c622e; border: 1px solid #b6e6c9; }
+        .error { background: #fde8e8; color: #9b1c1c; border: 1px solid #f9c6c6; }
+        
+        .back-home {
+            text-align: center;
+            margin-top: 15px;
+        }
+        .back-home a {
+            color: #4facfe;
+            text-decoration: none;
+            font-size: 13px;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .back-home a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="signup-container">
+        <div class="logo">
+            <h1><i class="fas fa-mobile-alt"></i> TechShop</h1>
+        </div>
+        
+        <div id="message" class="message"></div>
+        
+        <form id="signupForm">
+            <div class="name-group">
+                <div class="form-group">
+                    <label for="firstName">First Name</label>
+                    <input type="text" id="firstName" placeholder="John" required>
+                </div>
+                <div class="form-group">
+                    <label for="lastName">Last Name</label>
+                    <input type="text" id="lastName" placeholder="Doe" required>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="phone">Phone Number</label>
+                <input type="tel" id="phone" placeholder="+1234567890" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="email">Email Address</label>
+                <input type="email" id="email" placeholder="john@example.com" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="••••••••" required minlength="6">
+                <div class="show-password">
+                    <input type="checkbox" id="showPass" onclick="togglePassword()">
+                    <label for="showPass">Show password</label>
+                </div>
+            </div>
+            
+            <div class="terms">
+                By signing up, you agree to our 
+                <a href="#">Terms of Service</a> and 
+                <a href="#">Privacy Policy</a>
+            </div>
+            
+            <button type="submit" class="signup-btn">
+                <i class="fas fa-user-plus"></i> Create Account
+            </button>
+        </form>
+        
+        <div class="login-link">
+            Already have an account? 
+            <a href="login.html">Log In</a>
+        </div>
+        
+        <div class="back-home">
+            <a href="../index.html">
+                <i class="fas fa-arrow-left"></i> Back to Home
+            </a>
+        </div>
+    </div>
+
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script>
+        function showMessage(text, type = "error") {
+            const msg = document.getElementById("message");
+            msg.textContent = text;
+            msg.className = `message ${type}`;
+            msg.style.display = "block";
+            setTimeout(() => msg.style.display = "none", 5000);
+        }
+
+        function togglePassword() {
+            const pwd = document.getElementById("password");
+            pwd.type = pwd.type === "password" ? "text" : "password";
+        }
+
+        function validatePhone(phone) {
+            const phoneRegex = /^[\+]?[1-9][\d]{0,15}$/;
+            return phoneRegex.test(phone.replace(/[\s\-\(\)]/g, ''));
+        }
+
+        function validateEmail(email) {
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            return emailRegex.test(email);
+        }
+
+        document.getElementById("signupForm").addEventListener("submit", function(e) {
+            e.preventDefault();
+            
+            const firstName = document.getElementById("firstName").value.trim();
+            const lastName = document.getElementById("lastName").value.trim();
+            const phone = document.getElementById("phone").value.trim();
+            const email = document.getElementById("email").value.trim();
+            const password = document.getElementById("password").value;
+            
+            if (!firstName || !lastName) {
+                showMessage("Please enter both first and last name");
+                return;
+            }
+            
+            if (!validatePhone(phone)) {
+                showMessage("Please enter a valid phone number");
+                return;
+            }
+            
+            if (!validateEmail(email)) {
+                showMessage("Please enter a valid email address");
+                return;
+            }
+            
+            if (password.length < 6) {
+                showMessage("Password must be at least 6 characters");
+                return;
+            }
+            
+            const users = JSON.parse(localStorage.getItem("techshop_users") || "[]");
+            
+            
+            if (users.find(u => u.email === email)) {
+                showMessage("This email is already registered");
+                return;
+            }
+            
+          
+            const newUser = {
+                id: Date.now(),
+                firstName,
+                lastName,
+                phone,
+                email,
+                password,
+                joined: new Date().toISOString()
+            };
+            
+            users.push(newUser);
+            localStorage.setItem("techshop_users", JSON.stringify(users));
+            
+            
+            showMessage(`Welcome ${firstName}! Account created successfully.`, "success");
+            
+
+            setTimeout(() => {
+                window.location.href = "login.html";
+            }, 2000);
+        });
+
+      
+        document.addEventListener("DOMContentLoaded", function() {
+         
+            document.getElementById("firstName").focus();
+            
+            
+            const demoBtn = document.createElement("button");
+            demoBtn.innerHTML = "<i class='fas fa-magic'></i> Fill Demo Data";
+            demoBtn.style.cssText = `
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                background: #4facfe;
+                color: white;
+                border: none;
+                padding: 8px 15px;
+                border-radius: 20px;
+                font-size: 12px;
+                cursor: pointer;
+                box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+                z-index: 100;
+            `;
+            demoBtn.onclick = function() {
+                document.getElementById("firstName").value = "John";
+                document.getElementById("lastName").value = "Doe";
+                document.getElementById("phone").value = "+1234567890";
+                document.getElementById("email").value = "john@example.com";
+                document.getElementById("password").value = "password123";
+                showMessage("Demo data filled. You can now click 'Create Account'", "success");
+            };
+            document.body.appendChild(demoBtn);
+        });
+    </script>
+</body>
+</html>
