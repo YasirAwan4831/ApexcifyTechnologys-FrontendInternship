@@ -10,16 +10,16 @@
 
 ## 🏢 COMPANY DETAILS
 
-**Company Name:** Apexcify Technologies
-**Internship Program:** Frontend Development Internship
+**Company Name:** Apexcify Technologies<br>
+**Internship Program:** Frontend Development Internship<br>
 
 ---
 
 ## 👨‍💻 INTERN INFORMATION
 
-**Name:** Muhammad Yasir
-**Role:** Frontend Development Intern
-**Field:** Web Development
+**Name:** Muhammad Yasir<br>
+**Role:** Frontend Development Intern<br>
+**Field:** Web Development<br>
 
 ---
 
