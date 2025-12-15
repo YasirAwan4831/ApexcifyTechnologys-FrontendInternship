@@ -1,13 +1,16 @@
 # Frontend Development Internship — Apexcify Technologies
 
-![Internship](https://img.shields.io/badge/Internship-Frontend%20Development-blue)
-![Company](https://img.shields.io/badge/Company-Apexcify%20Technologies-blueviolet)
-![Platform](https://img.shields.io/badge/Platform-GitHub-black)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Projects](https://img.shields.io/badge/Projects-3-orange)
-![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-informational)
-![License](https://img.shields.io/badge/License-Avaibale-green)
-![Author](https://img.shields.io/badge/Author-Muhammad%20Yasir-purple)
+![Internship](https://img.shields.io/badge/Internship-Frontend%20Development-blue?style=for-the-badge)
+![Company](https://img.shields.io/badge/Company-Apexcify%20Technologies-blueviolet?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-3-orange?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-informational?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Author](https://img.shields.io/badge/Author-Muhammad%20Yasir-purple?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-GitHub%20Pages-blue?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Internship-lightgrey?style=for-the-badge)
+
 
 
 ---
@@ -27,13 +30,13 @@ The purpose of this repository is to:
 
 ##  𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Images](https://img.shields.io/badge/Assets-Images%20%26%20Icons-lightgrey)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black)
-![GitHub%20Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Deployment-blueviolet)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assets](https://img.shields.io/badge/Assets-Images%20%26%20Icons-lightgrey?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=for-the-badge)
+![GitHub%20Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Deployment-blueviolet?style=for-the-badge)
 
 
 ---
