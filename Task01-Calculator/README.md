@@ -4,15 +4,14 @@ A sleek, modern, responsive calculator built using **HTML**, **CSS** and **JavaS
 
 ---
 
-##  Badges & Status
+![Status](https://img.shields.io/badge/Project_Status-Completed-brightgreen?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-blue?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0-orange?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=flat-square)
+![GitHub](https://img.shields.io/github/stars/YasirAwan4831/ApexcifyTechnologys-FrontendInternship?style=flat-square)
+![GitHub](https://img.shields.io/github/forks/YasirAwan4831/ApexcifyTechnologys-FrontendInternship?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-![Status](https://img.shields.io/badge/Project_Status-Completed-brightgreen)
-![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
-![Version](https://img.shields.io/badge/Version-1.0-orange)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
-![GitHub](https://img.shields.io/github/stars/YasirAwan4831/ApexcifyTechnologys-FrontendInternship)
-![GitHub](https://img.shields.io/github/forks/YasirAwan4831/ApexcifyTechnologys-FrontendInternship)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -69,19 +68,19 @@ Click the on-screen buttons to perform calculations.
 
 ## 🌐 Social Media
 
-> Replace the links below with your real profiles.
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/yasirawan4831)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirawan4831/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/YasirAwan4831/)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31822196/yasirawan4831)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@YasirTech-t1d)
+[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/yasirawaninfo)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@YasirAwan4831)
+[![Substack](https://img.shields.io/badge/Substack-006f5c?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@yasirwaninfo)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61575935942197)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yasirawan4831/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/YasirAwan4831)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/yasirawan4831)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirawan4831/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/YasirAwan4831/)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31822196/yasirawan4831)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@YasirTech-t1d)
-[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white)](https://developers.google.com/profile/u/YOUR_GOOGLE_DEV)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@YasirAwan4831)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c?logo=substack&logoColor=white)](https://substack.com/@yasirwaninfo)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61575935942197)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yasirawan4831/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/YasirAwan4831)
+
 
 ---
 
@@ -109,7 +108,6 @@ Click the on-screen buttons to perform calculations.
 This project is licensed under the main repository license.
 **© 2025 Muhammad Yasir — All Rights Reserved**
 
-🔗 License File: *()*
 
 ---
 
@@ -120,5 +118,7 @@ This project is licensed under the main repository license.
 
 ##  Conclusion
 
-A simple yet modern calculator designed as part of the **ApexcifyTechnologys Frontend Internship**.
-More tasks coming soon — stay tuned! 
+A simple yet modern calculator developed as part of the  
+**ApexcifyTechnologys Frontend Internship**.
+
+ More tasks coming soon — stay tuned!

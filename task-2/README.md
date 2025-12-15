@@ -1,37 +1,48 @@
-# Muhammad Yasir – Web Developer Portfolio
+# 🌐 Muhammad Yasir — Web Developer Portfolio
 
-A modern, responsive, and fully functional portfolio website showcasing my work, skills and experience as a web developer.
+A **modern, responsive, and fully functional portfolio website** showcasing my projects, technical skills and professional journey as a **Frontend Web Developer**.
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Project](https://img.shields.io/badge/Project-Type--Portfolio-blueviolet?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
+![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
+![Deployment](https://img.shields.io/badge/Deployment-GitHub%20Pages-black)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Author](https://img.shields.io/badge/Author-Muhammad%20Yasir-purple)
+
 
 ---
 
-## Live Demo
+##  Live Demo
 
-**Live URL:** Comming soon <br>
-**Deployment:** Vercel<br>
-**Status Badge:**
-`[Vercel Deploy Status Badge Here]`
+🔗 **Live Website:**  
+
+https://yasirawan4831.github.io/ApexcifyTechnologys-FrontendInternship/task-2/
+
+ **Deployment Platform:** GitHub Pages  
+ **Project Status:** Completed & Live
 
 ---
+##  Features
 
-## Features
+###  Modern UI & UX
 
-### Modern Design
+- Clean and professional user interface
+- Dark-themed layout with subtle gradient highlights
+- Fully responsive across mobile, tablet and desktop devices
+- Smooth transitions, hover effects and micro-animations
 
-* Clean and professional user interface
-* Dark-themed layout with gradient highlights
-* Fully responsive for mobile, tablet and desktop
-* Smooth transitions, hover effects and animations
+###  Website Sections (Navigation Order)
 
-### Included Sections
-
-1. Hero Section with typing animation
-2. About Me section with introductory details
-3. Services grid (3x3 structured layout)
-4. Skills showcase with hover tooltips
-5. Projects section with Load More functionality
-6. Experience timeline structure
-7. Education background
-8. Contact form with validation
+1. **Home (Hero Section)** — landing area with typing text animation
+2. **About Me** — personal introduction and professional summary
+3. **Projects** — showcased projects with **Load More** functionality
+4. **Education** — academic background and qualifications
+5. **Experience** — professional experience timeline
+6. **Services** — structured 3×3 services grid
+7. **Skills** — technical skills with hover-based tooltips
+8. **Contact** — contact form with client-side validation
 
 ---
 
@@ -43,12 +54,21 @@ A modern, responsive, and fully functional portfolio website showcasing my work,
 * CSS3 (custom properties, Grid, Flexbox)
 * JavaScript ES6+ (interactivity and dynamic features)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+
 ### Tools Used
 
 * Git & GitHub (version control)
 * VS Code (development)
 * Google Fonts (typography)
-* Vercel (deployment)
+* GitHub page (deployment)
 
 ---
 
@@ -149,11 +169,11 @@ Add project cards in `script.js` under `additionalProjects` array:
 ```
 {
   title: " Muhammad Yaser - Portfolio webSite ",
-  description: "A personal portfolio website showcasing my skills, projects, and professional experience with a clean and responsive UI.",
+  description: "A personal portfolio website showcasing my skills, projects and professional experience with a clean and responsive UI.",
   technology: ["HTML", "CSS", "JavaScript"],
-  tools: ["Vs code", "Git", "GitHub", "Vercal" ],
-  liveLink: "comming soon",
-  githubLink: "https://github.com/YasirAwan4831?tab=repositories",
+  tools: ["Vs code", "Git", "GitHub" "GitHub Page" ],
+  liveLink: "https://yasirawan4831.github.io/ApexcifyTechnologys-FrontendInternship/task-2/",
+  githubLink: "https://github.com/YasirAwan4831/",
   image: "![portfolio](image.png)"
 }
 ```
@@ -214,12 +234,16 @@ In `style.css`, edit:
 
 ---
 
+
 ## Author
+![GitHub](https://img.shields.io/badge/GitHub-YasirAwan4831-black?logo=github)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Yasir-blue?logo=linkedin)
+![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)
 
 **Muhammad Yasir** <br>
 GitHub: [https://github.com/YasirAwan4831](https://github.com/YasirAwan4831) <br>
 LinkedIn: https://www.linkedin.com/in/yasirawan4831/ <br>
-Email: [my3154831409@gmail.com](mailto:myasirtech4831@gmail.com)
+Email: [my3154831409@gmail.com](mailto:my3154831409@gmail.com)
 
 ---
 
