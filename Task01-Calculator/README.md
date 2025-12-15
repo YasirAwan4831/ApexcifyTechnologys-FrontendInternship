@@ -18,10 +18,16 @@ A sleek, modern, responsive calculator built using **HTML**, **CSS** and **JavaS
 🔗 **Video Demo:** <br><br>
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Video_Demo-red?style=flat-square&logo=youtube)](https://youtu.be/pFN3iLxj7y0)
 [![LinkedIn Demo](https://img.shields.io/badge/LinkedIn-Video_Demo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/posts/yasirawan4831_frontenddevelopment-html-css-activity-7405710502309490689-ZwsL)
+[![Medium Blog](https://img.shields.io/badge/Medium-Project_Blog-black?style=flat-square&logo=medium)](https://medium.com/@YasirAwan4831/frontend-development-internship-project-completed-a-journey-of-learning-and-growth-51ac244a41fd)
+[![Substack Blog](https://img.shields.io/badge/Substack-Project_Blog-orange?style=flat-square&logo=substack)](https://open.substack.com/pub/yasirwaninfo/p/httpsmediumcomyasirawan4831frontend?r=6rj28o&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 
-**YouTube**      [YouTube Demo](https://youtu.be/pFN3iLxj7y0)<br>
-**LinkedIn**  [LinkedIn Demo](https://www.linkedin.com/posts/yasirawan4831_frontenddevelopment-html-css-activity-7405710502309490689-ZwsL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF0gn8IBJVVwfYrUPHzyD58NC5NcxjftJgM)
+
+**YouTube:** [Video Demo](https://youtu.be/pFN3iLxj7y0)  
+**LinkedIn:** [Project Post](https://www.linkedin.com/posts/yasirawan4831_frontenddevelopment-html-css-activity-7405710502309490689-ZwsL)  
+**Medium:** [Project Blog](https://medium.com/@YasirAwan4831/frontend-development-internship-project-completed-a-journey-of-learning-and-growth-51ac244a41fd)  
+**Substack:** [Newsletter Post](https://open.substack.com/pub/yasirwaninfo/p/httpsmediumcomyasirawan4831frontend)
+
 
 
 ---
