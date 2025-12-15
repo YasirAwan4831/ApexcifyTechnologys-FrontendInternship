@@ -16,6 +16,10 @@ A sleek, modern, responsive calculator built using **HTML**, **CSS** and **JavaS
 
 ---
 
+🔗 **Video Demo:** https://www.linkedin.com/posts/yasirawan4831_frontenddevelopment-html-css-activity-7405710502309490689-ZwsL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHhHjwBL8TtLjiiRR4OZsp6cHhpsCQvzoo
+
+---
+
 ##  Features
 
 *  **Basic Arithmetic** → Addition, Subtraction, Multiplication, Division
@@ -26,12 +30,6 @@ A sleek, modern, responsive calculator built using **HTML**, **CSS** and **JavaS
 *  **Real-time Display Updates**
 *  **Error Handling** (Invalid operations prevented)
 *  **Visual Button Feedback** on click/press
-
----
-
-## 🖥️ Live Demo
-
- *(Live link will be add after compleate project)*
 
 ---
 
@@ -106,7 +104,7 @@ Click the on-screen buttons to perform calculations.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the main repository license.
 **© 2025 Muhammad Yasir — All Rights Reserved**
@@ -116,7 +114,7 @@ This project is licensed under the main repository license.
 ---
 
 ## 🖼 Output / Screenshots
-![alt text](image.png)
+![output](image.png)
 
 ---
 

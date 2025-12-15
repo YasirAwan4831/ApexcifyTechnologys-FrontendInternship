@@ -14,7 +14,7 @@
 
 
 ---
-## 📌 About This Repository
+##  About This Repository
 
 This repository contains all **Frontend Development Internship tasks** completed by **Muhammad Yasir** during the internship at **Apexcify Technologies**.  
 Each task is developed as a **separate project**, following a clean folder structure, readable code practices and professional documentation standards.
@@ -34,6 +34,7 @@ The purpose of this repository is to:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Assets](https://img.shields.io/badge/Assets-Images%20%26%20Icons-lightgrey?style=for-the-badge)
+![Font Awesome](https://img.shields.io/badge/Icons-Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=for-the-badge)
 ![GitHub%20Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Deployment-blueviolet?style=for-the-badge)
