@@ -15,7 +15,14 @@ A sleek, modern, responsive calculator built using **HTML**, **CSS** and **JavaS
 
 ---
 
-🔗 **Video Demo:** https://www.linkedin.com/posts/yasirawan4831_frontenddevelopment-html-css-activity-7405710502309490689-ZwsL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHhHjwBL8TtLjiiRR4OZsp6cHhpsCQvzoo
+🔗 **Video Demo:** <br><br>
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video_Demo-red?style=flat-square&logo=youtube)](https://youtu.be/pFN3iLxj7y0)
+[![LinkedIn Demo](https://img.shields.io/badge/LinkedIn-Video_Demo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/posts/yasirawan4831_frontenddevelopment-html-css-activity-7405710502309490689-ZwsL)
+
+
+**YouTube**      [YouTube Demo](https://youtu.be/pFN3iLxj7y0)<br>
+**LinkedIn**  [LinkedIn Demo](https://www.linkedin.com/posts/yasirawan4831_frontenddevelopment-html-css-activity-7405710502309490689-ZwsL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF0gn8IBJVVwfYrUPHzyD58NC5NcxjftJgM)
+
 
 ---
 
