@@ -2,6 +2,7 @@
 
 A **modern, responsive and fully functional portfolio website** showcasing my projects, technical skills and professional journey as a **Frontend Web Developer**.
 
+
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=plastic)
 ![Project](https://img.shields.io/badge/Project-Portfolio%20Website-8a2be2?style=plastic)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=plastic)
