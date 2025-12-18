@@ -1,15 +1,15 @@
 # 🌐 Muhammad Yasir — Web Developer Portfolio
 
-A **modern, responsive, and fully functional portfolio website** showcasing my projects, technical skills and professional journey as a **Frontend Web Developer**.
+A **modern, responsive and fully functional portfolio website** showcasing my projects, technical skills and professional journey as a **Frontend Web Developer**.
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Project](https://img.shields.io/badge/Project-Type--Portfolio-blueviolet?style=flat-square)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
-![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
-![Deployment](https://img.shields.io/badge/Deployment-GitHub%20Pages-black)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Author](https://img.shields.io/badge/Author-Muhammad%20Yasir-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=plastic)
+![Project](https://img.shields.io/badge/Project-Portfolio%20Website-8a2be2?style=plastic)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=plastic)
+![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-1e90ff?style=plastic)
+![Deployment](https://img.shields.io/badge/Deployment-GitHub%20Pages-black?style=plastic)
+![License](https://img.shields.io/badge/License-MIT-green?style=plastic)
+![Author](https://img.shields.io/badge/Author-Muhammad%20Yasir-purple?style=plastic)
+
 
 
 ---
