@@ -213,7 +213,7 @@ function initProjectsSection() {
             tools: ['HTML', 'CSS', 'JavaScript', 'Local Storage', 'Responsive Design'],
             liveLink: 'https://github.com/YasirAwan4831/todo-list-js-app',
             githubLink: 'https://github.com/YasirAwan4831/todo-list-js-app',
-            image: 'https://media.licdn.com/dms/image/v2/D4D2DAQFSBUwsvETu9g/profile-treasury-image-shrink_800_800/B4DZk8lRNaHYAY-/0/1757658027582?e=1766178000&v=beta&t=UT3KUffHwcCPBm-fa4huQXpIzZxGKv12XjIxe_dwdek'
+            image: 'https://media.licdn.com/dms/image/v2/D4D22AQE2h8z1ZToSoQ/feedshare-shrink_800/B4DZk6ByzaJcAg-/0/1757615173410?e=1768435200&v=beta&t=B3GC73IBZgBtDP_qsUqWID2fECcJPSuVc8NWMLpfrUU'
         },
         {
             title: 'YARIS AI Smart Chat Bot',
@@ -237,7 +237,7 @@ function initProjectsSection() {
             tools: ['HTML', 'CSS', 'JavaScript', 'UX/UI', 'Responsive Design', 'Form Validation'],
             liveLink: 'https://github.com/YasirAwan4831/modern-login-singup-page/blob/main/README.md',
             githubLink: 'https://github.com/YasirAwan4831/modern-login-singup-page',
-            image: 'https://media.licdn.com/dms/image/v2/D4D2DAQEt_iGVrVjbeg/profile-treasury-image-shrink_800_800/B4DZlRJ4IOG8AY-/0/1758003168448?e=1766178000&v=beta&t=Euu1jtW5zq37JYqsmBXL-KJA4FUhEYvu7cjFdWFSl7w'
+            image: 'https://pbs.twimg.com/media/G86kagLacAAbE2J?format=png&name=900x900'
         },
         {
             title: 'Final Year Diploma Web Project',
